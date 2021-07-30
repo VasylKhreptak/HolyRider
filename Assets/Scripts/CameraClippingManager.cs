@@ -4,15 +4,12 @@ using UnityEngine;
 
 public class CameraClippingManager : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    [SerializeField] private float _cameraClipping = 1000f;
+    [SerializeField] private Camera _camera;
 
-    // Update is called once per frame
-    void Update()
+    void Awake()
     {
-        
+        _camera.farClipPlane = _cameraClipping;
+        RenderSettings.fogEndDistance = _cameraClipping;
     }
 }

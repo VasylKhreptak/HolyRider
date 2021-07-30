@@ -284,7 +284,7 @@ MonoBehaviour:
   mobileController: 1
   UIButtonSensitivity: 3
   UIButtonGravity: 5
-  gyroSensitivity: 0.7
+  gyroSensitivity: 1
   useLightsAsVertexLights: 1
   useLightProjectorForLightingEffect: 0
   setTagsAndLayers: 0

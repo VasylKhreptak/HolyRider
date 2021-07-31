@@ -10545,10 +10545,9 @@ MonoBehaviour:
     sidewalks: 0
     sidewalkHeight: 0.2
     sidewalkWidth: 2
-    roadMaterial: {fileID: 2100000, guid: ae8b7cc6ce9107348b919394622bd8a8, type: 2}
+    roadMaterial: {fileID: 0}
     roadMaterials: []
-    roadPhysicsMaterial: {fileID: 2100000, guid: ae8b7cc6ce9107348b919394622bd8a8,
-      type: 2}
+    roadPhysicsMaterial: {fileID: 0}
     roadPhysicsMaterials: []
     connectionMaterial: {fileID: 0}
     isSideObject: 0
@@ -10863,10 +10862,9 @@ MonoBehaviour:
     sidewalks: 0
     sidewalkHeight: 0.2
     sidewalkWidth: 2
-    roadMaterial: {fileID: 2100000, guid: f55df612b1d843844ba8201fbd20c520, type: 2}
+    roadMaterial: {fileID: 0}
     roadMaterials: []
-    roadPhysicsMaterial: {fileID: 2100000, guid: f55df612b1d843844ba8201fbd20c520,
-      type: 2}
+    roadPhysicsMaterial: {fileID: 0}
     roadPhysicsMaterials: []
     connectionMaterial: {fileID: 0}
     isSideObject: 0
@@ -11181,10 +11179,9 @@ MonoBehaviour:
     sidewalks: 0
     sidewalkHeight: 0.2
     sidewalkWidth: 2
-    roadMaterial: {fileID: 2100000, guid: 8f7b1d0faa873ac4b89935d54e7a555a, type: 2}
+    roadMaterial: {fileID: 0}
     roadMaterials: []
-    roadPhysicsMaterial: {fileID: 2100000, guid: 8f7b1d0faa873ac4b89935d54e7a555a,
-      type: 2}
+    roadPhysicsMaterial: {fileID: 0}
     roadPhysicsMaterials: []
     connectionMaterial: {fileID: 0}
     isSideObject: 0
@@ -11499,10 +11496,9 @@ MonoBehaviour:
     sidewalks: 0
     sidewalkHeight: 0.2
     sidewalkWidth: 2
-    roadMaterial: {fileID: 2100000, guid: d6215e81facff6443a447cf65c3fe345, type: 2}
+    roadMaterial: {fileID: 0}
     roadMaterials: []
-    roadPhysicsMaterial: {fileID: 2100000, guid: d6215e81facff6443a447cf65c3fe345,
-      type: 2}
+    roadPhysicsMaterial: {fileID: 0}
     roadPhysicsMaterials: []
     connectionMaterial: {fileID: 0}
     isSideObject: 0
@@ -11817,10 +11813,9 @@ MonoBehaviour:
     sidewalks: 0
     sidewalkHeight: 0.2
     sidewalkWidth: 2
-    roadMaterial: {fileID: 2100000, guid: 483b1858434d89a47b9ce5b30d929e0e, type: 2}
+    roadMaterial: {fileID: 0}
     roadMaterials: []
-    roadPhysicsMaterial: {fileID: 2100000, guid: 483b1858434d89a47b9ce5b30d929e0e,
-      type: 2}
+    roadPhysicsMaterial: {fileID: 0}
     roadPhysicsMaterials: []
     connectionMaterial: {fileID: 0}
     isSideObject: 0
@@ -12135,10 +12130,9 @@ MonoBehaviour:
     sidewalks: 0
     sidewalkHeight: 0.2
     sidewalkWidth: 2
-    roadMaterial: {fileID: 2100000, guid: 6e830237c00777a4cb53c304d2aae287, type: 2}
+    roadMaterial: {fileID: 0}
     roadMaterials: []
-    roadPhysicsMaterial: {fileID: 2100000, guid: 6e830237c00777a4cb53c304d2aae287,
-      type: 2}
+    roadPhysicsMaterial: {fileID: 0}
     roadPhysicsMaterials: []
     connectionMaterial: {fileID: 0}
     isSideObject: 0
@@ -12453,10 +12447,9 @@ MonoBehaviour:
     sidewalks: 0
     sidewalkHeight: 0.2
     sidewalkWidth: 2
-    roadMaterial: {fileID: 2100000, guid: 815e651c265e37641b0c0a282c0411c8, type: 2}
+    roadMaterial: {fileID: 0}
     roadMaterials: []
-    roadPhysicsMaterial: {fileID: 2100000, guid: 815e651c265e37641b0c0a282c0411c8,
-      type: 2}
+    roadPhysicsMaterial: {fileID: 0}
     roadPhysicsMaterials: []
     connectionMaterial: {fileID: 0}
     isSideObject: 0
@@ -12771,10 +12764,9 @@ MonoBehaviour:
     sidewalks: 0
     sidewalkHeight: 0.2
     sidewalkWidth: 2
-    roadMaterial: {fileID: 2100000, guid: cde14e4e7566d6242a68e870929703a6, type: 2}
+    roadMaterial: {fileID: 0}
     roadMaterials: []
-    roadPhysicsMaterial: {fileID: 2100000, guid: cde14e4e7566d6242a68e870929703a6,
-      type: 2}
+    roadPhysicsMaterial: {fileID: 0}
     roadPhysicsMaterials: []
     connectionMaterial: {fileID: 0}
     isSideObject: 0
@@ -13089,10 +13081,9 @@ MonoBehaviour:
     sidewalks: 0
     sidewalkHeight: 0.2
     sidewalkWidth: 2
-    roadMaterial: {fileID: 2100000, guid: a05aeb29c7aef1e45aa6c771dcb8f904, type: 2}
+    roadMaterial: {fileID: 0}
     roadMaterials: []
-    roadPhysicsMaterial: {fileID: 2100000, guid: a05aeb29c7aef1e45aa6c771dcb8f904,
-      type: 2}
+    roadPhysicsMaterial: {fileID: 0}
     roadPhysicsMaterials: []
     connectionMaterial: {fileID: 0}
     isSideObject: 0
@@ -13407,10 +13398,9 @@ MonoBehaviour:
     sidewalks: 0
     sidewalkHeight: 0.2
     sidewalkWidth: 2
-    roadMaterial: {fileID: 2100000, guid: d7ff472f67f46d146907b2d0a63ad597, type: 2}
+    roadMaterial: {fileID: 0}
     roadMaterials: []
-    roadPhysicsMaterial: {fileID: 2100000, guid: d7ff472f67f46d146907b2d0a63ad597,
-      type: 2}
+    roadPhysicsMaterial: {fileID: 0}
     roadPhysicsMaterials: []
     connectionMaterial: {fileID: 0}
     isSideObject: 0
@@ -13725,10 +13715,9 @@ MonoBehaviour:
     sidewalks: 0
     sidewalkHeight: 0.2
     sidewalkWidth: 2
-    roadMaterial: {fileID: 2100000, guid: 952c851dcdf868c4199ef6bf81977945, type: 2}
+    roadMaterial: {fileID: 0}
     roadMaterials: []
-    roadPhysicsMaterial: {fileID: 2100000, guid: 952c851dcdf868c4199ef6bf81977945,
-      type: 2}
+    roadPhysicsMaterial: {fileID: 0}
     roadPhysicsMaterials: []
     connectionMaterial: {fileID: 0}
     isSideObject: 0
@@ -14043,10 +14032,9 @@ MonoBehaviour:
     sidewalks: 0
     sidewalkHeight: 0.2
     sidewalkWidth: 2
-    roadMaterial: {fileID: 2100000, guid: 56b9173ae2d75484fba25bbe470f4909, type: 2}
+    roadMaterial: {fileID: 0}
     roadMaterials: []
-    roadPhysicsMaterial: {fileID: 2100000, guid: 56b9173ae2d75484fba25bbe470f4909,
-      type: 2}
+    roadPhysicsMaterial: {fileID: 0}
     roadPhysicsMaterials: []
     connectionMaterial: {fileID: 0}
     isSideObject: 0
@@ -14361,10 +14349,9 @@ MonoBehaviour:
     sidewalks: 0
     sidewalkHeight: 0.2
     sidewalkWidth: 2
-    roadMaterial: {fileID: 2100000, guid: b6dd0461d6c55464e96b6dd67775164a, type: 2}
+    roadMaterial: {fileID: 0}
     roadMaterials: []
-    roadPhysicsMaterial: {fileID: 2100000, guid: b6dd0461d6c55464e96b6dd67775164a,
-      type: 2}
+    roadPhysicsMaterial: {fileID: 0}
     roadPhysicsMaterials: []
     connectionMaterial: {fileID: 0}
     isSideObject: 0
@@ -14586,10 +14573,9 @@ MonoBehaviour:
     sidewalks: 0
     sidewalkHeight: 0.2
     sidewalkWidth: 2
-    roadMaterial: {fileID: 2100000, guid: 6ebf2bcf23191934b8ff0fc373571104, type: 2}
+    roadMaterial: {fileID: 0}
     roadMaterials: []
-    roadPhysicsMaterial: {fileID: 2100000, guid: 6ebf2bcf23191934b8ff0fc373571104,
-      type: 2}
+    roadPhysicsMaterial: {fileID: 0}
     roadPhysicsMaterials: []
     connectionMaterial: {fileID: 0}
     isSideObject: 0
@@ -14811,10 +14797,9 @@ MonoBehaviour:
     sidewalks: 0
     sidewalkHeight: 0.2
     sidewalkWidth: 2
-    roadMaterial: {fileID: 2100000, guid: 5550b3e1040a0ab4495db92ccb3f74e3, type: 2}
+    roadMaterial: {fileID: 0}
     roadMaterials: []
-    roadPhysicsMaterial: {fileID: 2100000, guid: 5550b3e1040a0ab4495db92ccb3f74e3,
-      type: 2}
+    roadPhysicsMaterial: {fileID: 0}
     roadPhysicsMaterials: []
     connectionMaterial: {fileID: 0}
     isSideObject: 0
@@ -15098,10 +15083,9 @@ MonoBehaviour:
     sidewalks: 0
     sidewalkHeight: 0.2
     sidewalkWidth: 2
-    roadMaterial: {fileID: 2100000, guid: 13ca6620e089c1d449051e86354465e3, type: 2}
+    roadMaterial: {fileID: 0}
     roadMaterials: []
-    roadPhysicsMaterial: {fileID: 2100000, guid: 13ca6620e089c1d449051e86354465e3,
-      type: 2}
+    roadPhysicsMaterial: {fileID: 0}
     roadPhysicsMaterials: []
     connectionMaterial: {fileID: 0}
     isSideObject: 0
@@ -15323,10 +15307,9 @@ MonoBehaviour:
     sidewalks: 0
     sidewalkHeight: 0.2
     sidewalkWidth: 2
-    roadMaterial: {fileID: 2100000, guid: 78f0ebce0096b3841971dc2e347e6c07, type: 2}
+    roadMaterial: {fileID: 0}
     roadMaterials: []
-    roadPhysicsMaterial: {fileID: 2100000, guid: 78f0ebce0096b3841971dc2e347e6c07,
-      type: 2}
+    roadPhysicsMaterial: {fileID: 0}
     roadPhysicsMaterials: []
     connectionMaterial: {fileID: 0}
     isSideObject: 0
@@ -15579,10 +15562,9 @@ MonoBehaviour:
     sidewalks: 0
     sidewalkHeight: 0.2
     sidewalkWidth: 2
-    roadMaterial: {fileID: 2100000, guid: 2eadfd02282ff1748a5407b1106d51b7, type: 2}
+    roadMaterial: {fileID: 0}
     roadMaterials: []
-    roadPhysicsMaterial: {fileID: 2100000, guid: 2eadfd02282ff1748a5407b1106d51b7,
-      type: 2}
+    roadPhysicsMaterial: {fileID: 0}
     roadPhysicsMaterials: []
     connectionMaterial: {fileID: 0}
     isSideObject: 0
@@ -15773,10 +15755,9 @@ MonoBehaviour:
     sidewalks: 0
     sidewalkHeight: 0.2
     sidewalkWidth: 2
-    roadMaterial: {fileID: 2100000, guid: c14f42d2b15458748b2fa9d524a152e3, type: 2}
+    roadMaterial: {fileID: 0}
     roadMaterials: []
-    roadPhysicsMaterial: {fileID: 2100000, guid: c14f42d2b15458748b2fa9d524a152e3,
-      type: 2}
+    roadPhysicsMaterial: {fileID: 0}
     roadPhysicsMaterials: []
     connectionMaterial: {fileID: 0}
     isSideObject: 0
@@ -15967,10 +15948,9 @@ MonoBehaviour:
     sidewalks: 0
     sidewalkHeight: 0.2
     sidewalkWidth: 2
-    roadMaterial: {fileID: 2100000, guid: e66e9c466b111394f9b8e2bfd584626f, type: 2}
+    roadMaterial: {fileID: 0}
     roadMaterials: []
-    roadPhysicsMaterial: {fileID: 2100000, guid: e66e9c466b111394f9b8e2bfd584626f,
-      type: 2}
+    roadPhysicsMaterial: {fileID: 0}
     roadPhysicsMaterials: []
     connectionMaterial: {fileID: 0}
     isSideObject: 0
@@ -16161,10 +16141,9 @@ MonoBehaviour:
     sidewalks: 0
     sidewalkHeight: 0.2
     sidewalkWidth: 2
-    roadMaterial: {fileID: 2100000, guid: a880858d8e5d01e49b4cb18ad2e57d56, type: 2}
+    roadMaterial: {fileID: 0}
     roadMaterials: []
-    roadPhysicsMaterial: {fileID: 2100000, guid: a880858d8e5d01e49b4cb18ad2e57d56,
-      type: 2}
+    roadPhysicsMaterial: {fileID: 0}
     roadPhysicsMaterials: []
     connectionMaterial: {fileID: 0}
     isSideObject: 0
@@ -16417,10 +16396,9 @@ MonoBehaviour:
     sidewalks: 0
     sidewalkHeight: 0.2
     sidewalkWidth: 2
-    roadMaterial: {fileID: 2100000, guid: 5b598e1957f5d2349869224f499b6160, type: 2}
+    roadMaterial: {fileID: 0}
     roadMaterials: []
-    roadPhysicsMaterial: {fileID: 2100000, guid: 5b598e1957f5d2349869224f499b6160,
-      type: 2}
+    roadPhysicsMaterial: {fileID: 0}
     roadPhysicsMaterials: []
     connectionMaterial: {fileID: 0}
     isSideObject: 0
@@ -16673,10 +16651,9 @@ MonoBehaviour:
     sidewalks: 0
     sidewalkHeight: 0.2
     sidewalkWidth: 2
-    roadMaterial: {fileID: 2100000, guid: 5725de0c94186f94e8f810f5df63eefa, type: 2}
+    roadMaterial: {fileID: 0}
     roadMaterials: []
-    roadPhysicsMaterial: {fileID: 2100000, guid: 5725de0c94186f94e8f810f5df63eefa,
-      type: 2}
+    roadPhysicsMaterial: {fileID: 0}
     roadPhysicsMaterials: []
     connectionMaterial: {fileID: 0}
     isSideObject: 0
@@ -16929,10 +16906,9 @@ MonoBehaviour:
     sidewalks: 0
     sidewalkHeight: 0.2
     sidewalkWidth: 2
-    roadMaterial: {fileID: 2100000, guid: b5c36da16298a854aaf15411da28ce71, type: 2}
+    roadMaterial: {fileID: 0}
     roadMaterials: []
-    roadPhysicsMaterial: {fileID: 2100000, guid: b5c36da16298a854aaf15411da28ce71,
-      type: 2}
+    roadPhysicsMaterial: {fileID: 0}
     roadPhysicsMaterials: []
     connectionMaterial: {fileID: 0}
     isSideObject: 0
@@ -17185,10 +17161,9 @@ MonoBehaviour:
     sidewalks: 0
     sidewalkHeight: 0.2
     sidewalkWidth: 2
-    roadMaterial: {fileID: 2100000, guid: 5465ae74e05ee9a47b1d6f0685960b10, type: 2}
+    roadMaterial: {fileID: 0}
     roadMaterials: []
-    roadPhysicsMaterial: {fileID: 2100000, guid: 5465ae74e05ee9a47b1d6f0685960b10,
-      type: 2}
+    roadPhysicsMaterial: {fileID: 0}
     roadPhysicsMaterials: []
     connectionMaterial: {fileID: 0}
     isSideObject: 0
@@ -17578,6 +17553,210 @@ MonoBehaviour:
     isRoadShape: 1
     controlType: 0
     vertexColor: {r: 1, g: 1, b: 1, a: 1}
+  - roadTypeName: HolyRoad
+    id: 1627661741.582699
+    timestamp: 1627722742.469816
+    roadWidth: 13
+    faceDistance: 1
+    angleTreshold: 45
+    uvTiling: 1
+    uv4Type: 0
+    type: 0
+    detailDistance: 50
+    planarUVs: 0
+    outerIndent: 0
+    roadShapeDataActive: 0
+    roadShapeData:
+      nodes:
+      - {x: -3, y: 0}
+      - {x: 3, y: 0}
+      hardEdge: 0000
+      priorityNodeIndexLeft: 0
+      priorityNodeIndexRight: 1
+      nodesV3: []
+      lanes: []
+      leftLanes: -1
+      rightLanes: -1
+      symmetrical: 1
+      leftSidewalkOffset: 0
+      rightSidewalkOffset: 0
+      outerLaneMarkingLeftIndex: -1
+      includeOuterlaneLeftInShape: 0
+      includeOuterlaneRightInShape: 0
+      outerLaneMarkingRightIndex: -1
+      outerOuterLaneMarkingLeftIndex: -1
+      outerOuterLaneMarkingRightIndex: -1
+      selectedNode: 0
+      selectedLaneNode: 0
+      isSymmetrical: 0
+      isset: 1
+    minSpeed: 45
+    maxSpeed: 55
+    speedLimit: 50
+    roadShape:
+    - {x: 6.5, y: 0}
+    - {x: -6.5, y: 0}
+    roadShapeExt: []
+    roadShapeExt2: []
+    doConnectionTri: 
+    doConnectionTriExt: 
+    roadShapeUVs:
+    - 0
+    - 1
+    roadShapeExtUVs: []
+    roadShapeExtUVs2: []
+    roadShapeUVs2:
+    - 0
+    - 1
+    preserveUVs: 0
+    hardEdge: 
+    roadShapeVecsString: 
+    defaultSidewalk: 0
+    sidewalks: 0
+    sidewalkHeight: 0.2
+    sidewalkWidth: 2
+    roadMaterial: {fileID: 2100000, guid: f182e2714eb8a714a99ed091081ce16c, type: 2}
+    roadMaterials: []
+    roadPhysicsMaterial: {fileID: 13400000, guid: 509c1bbe5810ac84ab6aa68f6523684d,
+      type: 2}
+    roadPhysicsMaterials: []
+    connectionMaterial: {fileID: 2100000, guid: 3c555588afad81d428ad1704d5d015a7,
+      type: 2}
+    isSideObject: 0
+    isCustomRoad: 0
+    subSegments: 1
+    soData: []
+    soDataExt: []
+    soDataLog:
+    - id: 1523430784.1804347
+      active: 0
+    - id: 1523431033.2050576
+      active: 0
+    - id: 1523351309.232092
+      active: 0
+    - id: 1523352651.5264447
+      active: 0
+    - id: 1627465603.8967094
+      active: 1
+    - id: 1627465201.9985151
+      active: 1
+    - id: 1627462589.133491
+      active: 1
+    - id: 1627462455.0578816
+      active: 1
+    - id: 1524816465.7802632
+      active: 0
+    - id: 1524828737.4723313
+      active: 0
+    - id: 1524829690.138856
+      active: 0
+    - id: 1524829763.4040947
+      active: 0
+    - id: 1524829547.0710456
+      active: 0
+    - id: 1524829842.156426
+      active: 0
+    - id: 1524816557.471731
+      active: 0
+    - id: 1524828755.419544
+      active: 0
+    - id: 1524814929.088389
+      active: 0
+    - id: 1524828773.265978
+      active: 0
+    - id: 1524816430.0227156
+      active: 0
+    - id: 1524828859.280156
+      active: 0
+    - id: 1524815514.0662813
+      active: 0
+    - id: 1524828878.3989716
+      active: 0
+    - id: 1524815893.6309447
+      active: 0
+    - id: 1524828903.514737
+      active: 0
+    - id: 1572379853.7483516
+      active: 0
+    - id: 1524824055.8238192
+      active: 0
+    - id: 1522931713.5084984
+      active: 0
+    - id: 1523862559.4048278
+      active: 0
+    - id: 1523357355.1947017
+      active: 0
+    - id: 1523862583.3901153
+      active: 0
+    - id: 1523023149.9464264
+      active: 0
+    - id: 1523862637.5912688
+      active: 0
+    - id: 1523357417.9326303
+      active: 0
+    - id: 1523862653.8575282
+      active: 0
+    - id: 1523023131.781623
+      active: 0
+    - id: 1523022726.7189484
+      active: 0
+    - id: 1522918957.1975331
+      active: 0
+    - id: 1522933852.0558095
+      active: 0
+    - id: 1524836184.6664476
+      active: 0
+    - id: 1524836635.6867387
+      active: 0
+    - id: 1627462560.9311576
+      active: 0
+    - id: 1524836372.2124405
+      active: 0
+    layer: 0
+    isStatic: 0
+    tag: Untagged
+    splatMapActive: 0
+    splatIndex: 0
+    expandLevel: 0
+    smoothLevel: 0
+    splatOpacity: 0
+    followTerrainContours: 0
+    terrainContoursOffset: 5
+    terrainDeformation: 1
+    defaultIndent: 2
+    defaultSurrounding: 2
+    castShadow: 0
+    randomnessFlag: 0
+    randomYPosition: 0
+    randomMinYPosition: -0.21071404
+    randomMaxYPosition: 0.20000023
+    minRandomYPositionDistance: 45.08037
+    maxRandomYPositionDistance: 72.48216
+    randomMinRotation: 0
+    randomMaxRotation: 0
+    minRandomRotationDistance: 0
+    maxRandomRotationDistance: 0
+    vegetationStudioMaskLineActive: 0
+    vegetationStudioGrassPerimeter: 0
+    vegetationStudioPlantPerimeter: 0
+    vegetationStudioTreePerimeter: 0
+    vegetationStudioObjectPerimeter: 0
+    vegetationStudioLargeObjectPerimeter: 0
+    vegetationStudioBiomeMaskActive: 0
+    vegetationStudioBiomeMaskDistance: 0
+    vegetationStudioBiomeMaskBlendDistance: 0
+    vegetationStudioBiomeMaskNoiseScale: 0
+    decalPresets: []
+    decalClassPresets: []
+    defaultRamp: 0
+    extrusionType: 0
+    extrusionDistance: 0
+    fixedDistance: 0
+    connectionAngle: 0
+    connectionRadius: 0
+    isRoadShape: 1
+    controlType: 0
+    vertexColor: {r: 0, g: 0, b: 0, a: 0}
   crossingCornerPresets: []
   sidewalkPresets: []
   textureData: []
